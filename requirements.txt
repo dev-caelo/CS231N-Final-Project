@@ -2,4 +2,8 @@ numpy
 transformers
 matplotlib
 torch
+torchvision
 kaggle
+optim
+scikit-learn
+os
