@@ -1,0 +1,5 @@
+numpy
+transformers
+matplotlib
+pytorch
+kaggle
