@@ -10,3 +10,4 @@ keras
 seaborn
 pandas
 keras
+cv2
