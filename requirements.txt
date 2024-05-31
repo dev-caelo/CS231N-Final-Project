@@ -5,4 +5,7 @@ torch
 torchvision
 kaggle
 scikit-learn
-os
+tensorflow
+keras
+seaborn
+pandas
